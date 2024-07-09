@@ -1,7 +1,7 @@
 package mock_Programs;
 /*
  * Q1. Given an array of integers, write a Java program to find and 
- *     print all the duplicate elements.
+      print all the duplicate elements.
  */
 
 public class DuplicateElement {
